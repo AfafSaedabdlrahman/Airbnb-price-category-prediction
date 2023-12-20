@@ -1,5 +1,1 @@
-# Airbnb-price-category-prediction
-Is the model able to predict the listing price of the apartment based on its
-description and image on AirBnB? The dataset has two features as input (a summary and an image) and two outputs
-(type and price) and has been quantifed succes using trying  different layers like LSTM, GRU, and bidirectional layers, as well as using diﬀerent
-tools of regularisation  for the text(e.g,dropout, batch normalisation).  for the image(e.g,Resizing, Normalization).
+Describing a machine learning or deep learning model for predicting two outputs, namely the type and price of an Airbnb listing based on its description (textual data) and image. The model seems to be designed with various layers such as LSTM (Long Short-Term Memory), GRU (Gated Recurrent Unit), and bidirectional layers for processing textual data. Additionally, regularization techniques like dropout and batch normalization are applied to the text, and for image data, techniques such as resizing and normalization are used.
